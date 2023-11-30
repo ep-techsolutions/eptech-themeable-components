@@ -12,7 +12,7 @@ cd eptech-themeable-components
 npm install
 ```
 
-### Themeing
+### Configure theme
 
 - Copy `env.example` to `.env` and edit the theme values of colors, spacing and font-family according to your needs.
   Colors are accepted in HSL format, spacing in `rem` units and font-family needs to be the name of a Google Font (from [Google Fonts](https://fonts.google.com/))
